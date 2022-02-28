@@ -2,14 +2,12 @@
 
 Recent Multi-modal Deep Learning Advances (list of papers and highlights)
 
-Jingfeng Yang
-
 ----
 ## Introduction 
 
 ### Prelude
 
-There are many advances of using unified models (e.g. Transformer) to create representations for multiple modalities. Some of them even enable infusion of multiple modalities to make different modalities help each other. Here, multiple modalities not only include natural language, vision and speech, but also include formal language (e.g. code), (semi-)structured knowledge (e.g. table, KG etc.). This is a list of recent important papers in this field. Welcome to contribute.
+There are many advances of using unified models (e.g. Transformer) to create representations for multiple modalities. Some of them even enable infusion of multiple modalities to make different modalities help each other. Here, multiple modalities not only include natural language, vision and speech, but also include formal language (e.g. code) and (semi-)structured knowledge (e.g. table, KG etc.). This is a list of recent important papers in this field. Welcome to contribute.
 
 
 - [Introduction](#introduction)
@@ -36,7 +34,7 @@ There are many advances of using unified models (e.g. Transformer) to create rep
 
 ## Natural Language
 
-* BERT, RoBERTa, BART, SpanBERT, T5, GPT-k etc.
+* BERT, RoBERTa, BART, SpanBERT, UniLM, PEGASUS, ELECTRA, T5, GPT-k etc.
 
 * [data2vec: A General Framework for Self-supervised Learning in Speech, Vision and Language](https://arxiv.org/pdf/2202.03555.pdf), arxiv Feb 2022.
 
@@ -46,7 +44,7 @@ There are many advances of using unified models (e.g. Transformer) to create rep
 
 * [ViT: An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/pdf/2010.11929.pdf), ICLR 2021.
 
-* [Training data-efficient image transformers & distillation through attention](https://arxiv.org/pdf/2012.12877.pdf), Dec 2020.
+* [DeiT: Training data-efficient image transformers & distillation through attention](https://arxiv.org/pdf/2012.12877.pdf), Dec 2020.
 
 * [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/pdf/2103.14030.pdf), Aug 2021.
 
@@ -94,7 +92,13 @@ There are many advances of using unified models (e.g. Transformer) to create rep
 
 ### Table
 
+* [TABERT: Pretraining for Joint Understanding of Textual and Tabular Data](https://arxiv.org/pdf/2005.08314.pdf), ACL 2020.
+
+* [GraPPa: Grammar-Augmented Pre-Training for Table Semantic Parsing](https://arxiv.org/pdf/2009.13845.pdf), ICLR 2021.
+
 * [TAPAS: Weakly Supervised Table Parsing via Pre-training](https://arxiv.org/pdf/2004.02349.pdf), ACL 2020.
+
+* [STRUG: Structure-Grounded Pretraining for Text-to-SQL](https://arxiv.org/pdf/2010.12773.pdf), NAACL 2021.
 
 * [TAPEX: Table Pre-training via Learning a Neural SQL Executor](https://arxiv.org/pdf/2107.07653.pdf), ICLR 2022.
 
@@ -116,6 +120,53 @@ There are many advances of using unified models (e.g. Transformer) to create rep
 
 ### Vision and Natural Language
 
-* [DALL·E: Zero-Shot Text-to-Image Generation](https://arxiv.org/pdf/2102.12092.pdf), Feb 2021.
+* [ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks](https://papers.nips.cc/paper/2019/file/c74d97b01eae257e44aa9d5bade97baf-Paper.pdf), NeuralPS 2019.
+
+* [LXMERT: Learning Cross-Modality Encoder Representations](https://arxiv.org/pdf/1908.07490.pdf), EMNLP 2019.
+
+* [VisualBERT: A Simple and Performant Baseline for Vision and Language](https://arxiv.org/pdf/1908.03557.pdf), ACL 2020.
+
+* [Unicoder-VL: A Universal Encoder for Vision and Language by Cross-modal Pre-training](https://arxiv.org/pdf/1908.06066.pdf). arxiv Dec 2019.
+
+* [UNITER: UNiversal Image-TExt Representation Learning](https://arxiv.org/pdf/1909.11740.pdf), arxiv July 2020.
+
+* [Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks](https://arxiv.org/pdf/2004.06165.pdf), ECCV 2020.
+
+* [VILLA: Large-Scale Adversarial Training for Vision-and-Language Representation Learning](https://arxiv.org/pdf/2006.06195.pdf), NeuralPS 2020.
+
+* [ViLBERT-MT: 12-in-1: Multi-Task Vision and Language Representation Learning](https://openaccess.thecvf.com/content_CVPR_2020/papers/Lu_12-in-1_Multi-Task_Vision_and_Language_Representation_Learning_CVPR_2020_paper.pdf), CVPR 2020.
+
+* [Pixel-BERT: Aligning Image Pixels with Text by Deep Multi-Modal Transformers](https://arxiv.org/pdf/2004.00849.pdf), arxiv April 2020.
+
+* [Unsupervised Vision-and-Language Pre-training Without Parallel Images and Captions](https://arxiv.org/pdf/2010.12831.pdf), NAACL 2021.
+
+* [M6: A Chinese Multimodal Pretrainer](https://arxiv.org/pdf/2103.00823.pdf), arxiv March 2021.
+
+* [DALL·E: Zero-Shot Text-to-Image Generation](https://arxiv.org/pdf/2102.12092.pdf), arxiv Feb 2021.
 
 * [CLIP: Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/pdf/2103.00020.pdf), arxiv Feb 2021.
+
+* [UNIMO: Towards Unified-Modal Understanding and Generation via Cross-Modal Contrastive Learning](https://arxiv.org/pdf/2012.15409.pdf), ACL 2021.
+
+* [ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision](https://arxiv.org/pdf/2102.03334.pdf), ICML 2021.
+
+* [SimVLM: Simple Visual Language Model Pretraining with Weak Supervision](https://arxiv.org/pdf/2108.10904.pdf), arxiv Aug 2021.
+
+* [Align before Fuse: Vision and Language Representation Learning with Momentum Distillation](https://arxiv.org/pdf/2107.07651.pdf), arxiv July 2021.
+
+* [VinVL: Revisiting Visual Representations in Vision-Language Models](https://arxiv.org/pdf/2101.00529.pdf), CVPR 2021.
+
+* [LAFITE: Towards Language-Free Training for Text-to-Image Generation](https://arxiv.org/pdf/2111.13792.pdf), arxiv Nov 2021.
+
+* [VLMO: Unified Vision-Language Pre-Training with Mixture-of-Modality-Experts](https://arxiv.org/pdf/2111.02358.pdf), arxiv Nov 2021.
+
+* [GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models](https://arxiv.org/pdf/2112.10741.pdf) arxiv Dec 2021.
+
+* [FLAVA: A Foundational Language And Vision Alignment Model](https://arxiv.org/pdf/2112.04482.pdf), arxiv Dec 2021.
+
+* [Uni-Perceiver: Pre-training Unified Architecture for Generic Perception for Zero-shot and Few-shot Tasks](https://arxiv.org/pdf/2112.01522.pdf) arxiv Dec 2021.
+
+* [CM3: A Causal Masked Multimodal Model of the Internet](https://arxiv.org/pdf/2201.07520.pdf), arxiv Jan 2022.
+
+* [Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework](https://arxiv.org/pdf/2202.03052.pdf), arxiv Feb 2022.
+
