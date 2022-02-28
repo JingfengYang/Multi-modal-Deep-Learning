@@ -42,9 +42,13 @@ There are many advances of using unified models (e.g. Transformer) to create rep
 
 ### Supervised Vision Task
 
+* [DETR: End-to-End Object Detection with Transformers](https://arxiv.org/abs/2005.12872), ECCV 2020.
+
 * [ViT: An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/pdf/2010.11929.pdf), ICLR 2021.
 
 * [DeiT: Training data-efficient image transformers & distillation through attention](https://arxiv.org/pdf/2012.12877.pdf), arxiv Dec 2020.
+
+* [MoCo-V3: An Empirical Study of Training Self-Supervised Vision Transformers](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_An_Empirical_Study_of_Training_Self-Supervised_Vision_Transformers_ICCV_2021_paper.pdf), ICCV 2021.
 
 * [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/pdf/2103.14030.pdf), arxiv Aug 2021.
 
