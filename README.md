@@ -25,7 +25,7 @@ There are many advances of using unified models (e.g. Transformer) to create rep
   - [Table](#table)
   - [Knowledge Graph](#knoledge-graph)
   - [Retrivaled Passage as Knowledge](#retrivaled-passage-as-knowledge)
-- [Modality infusion](#modality-infusion)
+- [Modality Fusion](#modality-infusion)
   - [Vision and Natural Language](#vision-and-natural-language)
 
 
@@ -120,7 +120,7 @@ There are many advances of using unified models (e.g. Transformer) to create rep
 
 * [MERGE: Pre-training via Paraphrasing](https://proceedings.neurips.cc/paper/2020/file/d6f1dd034aabde7657e6680444ceff62-Paper.pdf), NeuralPS 2020.
 
-## Modality Infusion
+## Modality Fusion
 
 ### Vision and Natural Language
 
