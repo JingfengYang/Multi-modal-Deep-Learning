@@ -1,6 +1,6 @@
 # Multi-modal-Deep-Learning
 
-Recent Multi-modal Deep Learning Advances (list of papers and highlights)
+Recent Multi-modal Deep Learning Advances (list of papers and highlights).
 
 ----
 ## Introduction 
