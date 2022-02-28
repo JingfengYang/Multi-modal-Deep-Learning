@@ -114,11 +114,15 @@ There are many advances of using unified models (e.g. Transformer) to create rep
 
 * [(COMET-)ATOMIC-2020: On Symbolic and Neural Commonsense Knowledge Graphs](https://arxiv.org/pdf/2010.05953.pdf), arxiv Oct 2020.
 
+* [Knowledge is Power: Symbolic Knowledge Distillation, Commonsense Morality, & Multimodal Script Knowledge](https://dl.acm.org/doi/abs/10.1145/3488560.3500242), WSDM 2022.
+
 ### Retrieval Paragraphs as Knowledge
 
 * [REALM: Retrieval-Augmented Language Model Pre-Training](https://arxiv.org/pdf/2002.08909.pdf), arxiv Feb 2020.
 
 * [MERGE: Pre-training via Paraphrasing](https://proceedings.neurips.cc/paper/2020/file/d6f1dd034aabde7657e6680444ceff62-Paper.pdf), NeuralPS 2020.
+
+* [Dense Passage Retrieval for Open-Domain Question Answering](https://aclanthology.org/2020.emnlp-main.550.pdf), EMNLP 2020.
 
 ## Modality Fusion
 
