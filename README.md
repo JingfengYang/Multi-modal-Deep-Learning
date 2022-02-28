@@ -34,7 +34,7 @@ There are many advances of using unified models (e.g. Transformer) to create rep
 
 ## Natural Language
 
-* BERT, RoBERTa, BART, SpanBERT, UniLM, PEGASUS, ELECTRA, T5, GPT-k etc.
+* BERT, RoBERTa, BART, SpanBERT, UniLM, PEGASUS, ELECTRA, T5, GPT-k, FLAN, InstructGPT etc.
 
 * [data2vec: A General Framework for Self-supervised Learning in Speech, Vision and Language](https://arxiv.org/pdf/2202.03555.pdf), arxiv Feb 2022.
 
@@ -142,7 +142,7 @@ There are many advances of using unified models (e.g. Transformer) to create rep
 
 * [Pixel-BERT: Aligning Image Pixels with Text by Deep Multi-Modal Transformers](https://arxiv.org/pdf/2004.00849.pdf), arxiv April 2020.
 
-* [Unsupervised Vision-and-Language Pre-training Without Parallel Images and Captions](https://arxiv.org/pdf/2010.12831.pdf), NAACL 2021.
+* [U-VisualBERT: Unsupervised Vision-and-Language Pre-training Without Parallel Images and Captions](https://arxiv.org/pdf/2010.12831.pdf), NAACL 2021.
 
 * [M6: A Chinese Multimodal Pretrainer](https://arxiv.org/pdf/2103.00823.pdf), arxiv March 2021.
 
@@ -156,7 +156,7 @@ There are many advances of using unified models (e.g. Transformer) to create rep
 
 * [SimVLM: Simple Visual Language Model Pretraining with Weak Supervision](https://arxiv.org/pdf/2108.10904.pdf), arxiv Aug 2021.
 
-* [Align before Fuse: Vision and Language Representation Learning with Momentum Distillation](https://arxiv.org/pdf/2107.07651.pdf), arxiv July 2021.
+* [ALBEF: Align before Fuse: Vision and Language Representation Learning with Momentum Distillation](https://arxiv.org/pdf/2107.07651.pdf), arxiv July 2021.
 
 * [VinVL: Revisiting Visual Representations in Vision-Language Models](https://arxiv.org/pdf/2101.00529.pdf), CVPR 2021.
 
