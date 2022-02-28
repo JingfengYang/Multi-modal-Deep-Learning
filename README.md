@@ -24,7 +24,7 @@ There are many advances of using unified models (e.g. Transformer) to create rep
 - [Structured Knowledge](#structured-knowledge)
   - [Table](#table)
   - [Knowledge Graph](#knoledge-graph)
-  - [Retrivaled Passage as Knowledge](#retrivaled-passage-as-knowledge)
+  - [Retrieval Paragraphs as Knowledge](#retrieval-paragraphs-as-knowledge)
 - [Modality Fusion](#modality-infusion)
   - [Vision and Natural Language](#vision-and-natural-language)
 
@@ -114,7 +114,7 @@ There are many advances of using unified models (e.g. Transformer) to create rep
 
 * [(COMET-)ATOMIC-2020: On Symbolic and Neural Commonsense Knowledge Graphs](https://arxiv.org/pdf/2010.05953.pdf), arxiv Oct 2020.
 
-### Retrivaled Paragraphs as Knowledge
+### Retrieval Paragraphs as Knowledge
 
 * [REALM: Retrieval-Augmented Language Model Pre-Training](https://arxiv.org/pdf/2002.08909.pdf), arxiv Feb 2020.
 
