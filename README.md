@@ -44,9 +44,9 @@ There are many advances of using unified models (e.g. Transformer) to create rep
 
 * [ViT: An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/pdf/2010.11929.pdf), ICLR 2021.
 
-* [DeiT: Training data-efficient image transformers & distillation through attention](https://arxiv.org/pdf/2012.12877.pdf), Dec 2020.
+* [DeiT: Training data-efficient image transformers & distillation through attention](https://arxiv.org/pdf/2012.12877.pdf), arxiv Dec 2020.
 
-* [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/pdf/2103.14030.pdf), Aug 2021.
+* [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/pdf/2103.14030.pdf), arxiv Aug 2021.
 
 ### Unsupervised Vision Representation Learning
 
@@ -68,7 +68,7 @@ There are many advances of using unified models (e.g. Transformer) to create rep
 
 * [HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units](https://arxiv.org/pdf/2106.07447.pdf), arxiv Jun 2021.
 
-* [WavLM: Large-Scale Self-Supervised Pre-Training for Full Stack Speech Processing](https://arxiv.org/pdf/2110.13900.pdf) arxiv Oct 2021.
+* [WavLM: Large-Scale Self-Supervised Pre-Training for Full Stack Speech Processing](https://arxiv.org/pdf/2110.13900.pdf), arxiv Oct 2021.
 
 * [data2vec: A General Framework for Self-supervised Learning in Speech, Vision and Language](https://arxiv.org/pdf/2202.03555.pdf), arxiv Feb 2022.
 
@@ -80,7 +80,7 @@ There are many advances of using unified models (e.g. Transformer) to create rep
 
 * [CodeBERT: A Pre-Trained Model for Programming and Natural Languages](https://arxiv.org/pdf/2002.08155.pdf), EMNLP 2020 (Findings).
 
-* [Codex: Evaluating Large Language Models Trained on Code](https://arxiv.org/pdf/2107.03374.pdf), Jul 2021.
+* [Codex: Evaluating Large Language Models Trained on Code](https://arxiv.org/pdf/2107.03374.pdf), arxiv Jul 2021.
 
 * [GraphCodeBERT: Pre-training Code Representations with Data Flow](https://arxiv.org/pdf/2009.08366.pdf), ICLR 2021.
 
@@ -126,7 +126,7 @@ There are many advances of using unified models (e.g. Transformer) to create rep
 
 * [VisualBERT: A Simple and Performant Baseline for Vision and Language](https://arxiv.org/pdf/1908.03557.pdf), ACL 2020.
 
-* [Unicoder-VL: A Universal Encoder for Vision and Language by Cross-modal Pre-training](https://arxiv.org/pdf/1908.06066.pdf). arxiv Dec 2019.
+* [Unicoder-VL: A Universal Encoder for Vision and Language by Cross-modal Pre-training](https://arxiv.org/pdf/1908.06066.pdf), arxiv Dec 2019.
 
 * [UNITER: UNiversal Image-TExt Representation Learning](https://arxiv.org/pdf/1909.11740.pdf), arxiv July 2020.
 
@@ -164,7 +164,7 @@ There are many advances of using unified models (e.g. Transformer) to create rep
 
 * [FLAVA: A Foundational Language And Vision Alignment Model](https://arxiv.org/pdf/2112.04482.pdf), arxiv Dec 2021.
 
-* [Uni-Perceiver: Pre-training Unified Architecture for Generic Perception for Zero-shot and Few-shot Tasks](https://arxiv.org/pdf/2112.01522.pdf) arxiv Dec 2021.
+* [Uni-Perceiver: Pre-training Unified Architecture for Generic Perception for Zero-shot and Few-shot Tasks](https://arxiv.org/pdf/2112.01522.pdf), arxiv Dec 2021.
 
 * [CM3: A Causal Masked Multimodal Model of the Internet](https://arxiv.org/pdf/2201.07520.pdf), arxiv Jan 2022.
 
