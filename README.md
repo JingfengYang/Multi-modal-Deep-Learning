@@ -17,10 +17,18 @@ There are many advances of using unified models (e.g. Transformer) to create rep
 - [Resources](#resources)
 - [Natural Language](#natural-language)
 - [Vision](#vision)
+  - [Supervised Vision Task](#supervised-vision-task)
+  - [Unsupervised Vision Representation Learning](#unsupervised-vision-representation-learning)
 - [Speech](#speech)
+  - [Unsupervised Speech Representation Learning](#unsupervised-speech-representation-learning)
+  - [Unsupervised Automatic speech recognition (ASR)](#unsupervised-automatic-speech-recognition)
 - [Fomal Language / Code](#formal-language)
 - [Structured Knowledge](#structured-knowledge)
+  - [Table](#table)
+  - [Knowledge Graph](#knoledge-graph)
+  - [Retrivaled Passage as Knowledge](#retrivaled-passage-as-knowledge)
 - [Modality infusion](#modality-infusion)
+  - [Vision and Natural Language](#vision-and-natural-language)
 
 
 ## Resources
@@ -92,7 +100,7 @@ There are many advances of using unified models (e.g. Transformer) to create rep
 
 * [TableFormer: Robust Transformer Modeling for Table-Text Encoding](https://openreview.net/pdf?id=EHzvRqy6kD), ACL 2022.
 
-### Knowledge graph
+### Knowledge Graph
 
 * [COMET: Commonsense Transformers for Automatic Knowledge Graph Construction](https://arxiv.org/pdf/1906.05317.pdf), ACL 2019.
 
