@@ -15,7 +15,7 @@ There are many advances of using unified models (e.g. Transformer) to create rep
 - [Resources](#resources)
 - [Natural Language](#natural-language)
 - [Vision](#vision)
-  - [Supervised Vision Task](#supervised-vision-task)
+  - [Supervised Vision Tasks](#supervised-vision-tasks)
   - [Unsupervised Vision Representation Learning](#unsupervised-vision-representation-learning)
 - [Speech](#speech)
   - [Unsupervised Speech Representation Learning](#unsupervised-speech-representation-learning)
@@ -40,7 +40,7 @@ There are many advances of using unified models (e.g. Transformer) to create rep
 
 ## Vision
 
-### Supervised Vision Task
+### Supervised Vision Tasks
 
 * [DETR: End-to-End Object Detection with Transformers](https://arxiv.org/abs/2005.12872), ECCV 2020.
 
@@ -114,7 +114,7 @@ There are many advances of using unified models (e.g. Transformer) to create rep
 
 * [(COMET-)ATOMIC-2020: On Symbolic and Neural Commonsense Knowledge Graphs](https://arxiv.org/pdf/2010.05953.pdf), arxiv Oct 2020.
 
-### Retrivaled Passage as Knowledge
+### Retrivaled Paragraphs as Knowledge
 
 * [REALM: Retrieval-Augmented Language Model Pre-Training](https://arxiv.org/pdf/2002.08909.pdf), arxiv Feb 2020.
 
