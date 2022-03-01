@@ -25,7 +25,7 @@ There are many advances of using unified models (e.g. Transformer) to create rep
   - [Table](#table)
   - [Knowledge Graph](#knowledge-graph)
   - [Retrieval Paragraphs as Knowledge](#retrieval-paragraphs-as-knowledge)
-- [Biology / Chemistry](#biology/chemistry)
+- [Biology / Chemistry](#biology-and-chemistry)
   - [Protein](#protein)
   - [Molecular](#molecular)
 - [Modality Fusion](#modality-fusion)
@@ -137,7 +137,7 @@ There are many advances of using unified models (e.g. Transformer) to create rep
 
 * [Spider: Learning to Retrieve Passages without Supervision](http://www.cs.tau.ac.il/~oriram/spider.pdf), arxiv Dec 2021.
 
-## Biology/Chemestry
+## Biology and Chemestry
 
 ### Protein
 
