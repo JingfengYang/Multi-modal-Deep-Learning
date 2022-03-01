@@ -25,6 +25,9 @@ There are many advances of using unified models (e.g. Transformer) to create rep
   - [Table](#table)
   - [Knowledge Graph](#knowledge-graph)
   - [Retrieval Paragraphs as Knowledge](#retrieval-paragraphs-as-knowledge)
+- [Biology / Chemistry](#biology/chemistry)
+  - [Protein](#protein)
+  - [Molecular](#molecular)
 - [Modality Fusion](#modality-fusion)
   - [Vision and Natural Language](#vision-and-natural-language)
 
@@ -88,6 +91,8 @@ There are many advances of using unified models (e.g. Transformer) to create rep
 
 * [GraphCodeBERT: Pre-training Code Representations with Data Flow](https://arxiv.org/pdf/2009.08366.pdf), ICLR 2021.
 
+* [Transformer Embeddings of Irregularly Spaced Events and Their Participants](https://arxiv.org/abs/2201.00044), ICLR 2022.
+
 * [AlphaCode: Competition-Level Code Generation with AlphaCode](https://storage.googleapis.com/deepmind-media/AlphaCode/competition_level_code_generation_with_alphacode.pdf).
 
 ## Structured Knowledge
@@ -131,6 +136,16 @@ There are many advances of using unified models (e.g. Transformer) to create rep
 * [Condenser: a Pre-training Architecture for Dense Retrieval](https://arxiv.org/pdf/2104.08253.pdf), EMNLP 2021.
 
 * [Spider: Learning to Retrieve Passages without Supervision](http://www.cs.tau.ac.il/~oriram/spider.pdf), arxiv Dec 2021.
+
+## Biology/Chemestry
+
+### Protein
+
+* [Transformer protein language models are unsupervised structure learners](https://openreview.net/pdf?id=fylclEqgvgd), ICLR 2021.
+
+### Molecular
+
+* [Graphomer: Do Transformers Really Perform Bad for Graph Representation?](https://arxiv.org/pdf/2106.05234.pdf), NeuralPS 2021.
 
 ## Modality Fusion
 
