@@ -137,7 +137,7 @@ There are many advances of using unified models (e.g. Transformer) to create rep
 
 * [Spider: Learning to Retrieve Passages without Supervision](http://www.cs.tau.ac.il/~oriram/spider.pdf), arxiv Dec 2021.
 
-## Biology and Chemestry
+## Biology and Chemistry
 
 ### Protein
 
