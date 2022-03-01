@@ -124,6 +124,8 @@ There are many advances of using unified models (e.g. Transformer) to create rep
 
 * [Dense Passage Retrieval for Open-Domain Question Answering](https://aclanthology.org/2020.emnlp-main.550.pdf), EMNLP 2020.
 
+* [Learning to Retrieve Passages without Supervision](http://www.cs.tau.ac.il/~oriram/spider.pdf), Dec 2021.
+
 ## Modality Fusion
 
 ### Vision and Natural Language
