@@ -23,7 +23,7 @@ There are many advances of using unified models (e.g. Transformer) to create rep
 - [Formal Language / Code](#formal-language)
 - [Structured Knowledge](#structured-knowledge)
   - [Table](#table)
-  - [Knowledge Graph](#knoledge-graph)
+  - [Knowledge Graph](#knowledge-graph)
   - [Retrieval Paragraphs as Knowledge](#retrieval-paragraphs-as-knowledge)
 - [Modality Fusion](#modality-infusion)
   - [Vision and Natural Language](#vision-and-natural-language)
