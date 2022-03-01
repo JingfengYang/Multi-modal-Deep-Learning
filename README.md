@@ -176,5 +176,5 @@ There are many advances of using unified models (e.g. Transformer) to create rep
 
 * [CM3: A Causal Masked Multimodal Model of the Internet](https://arxiv.org/pdf/2201.07520.pdf), arxiv Jan 2022.
 
-* [Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework](https://arxiv.org/pdf/2202.03052.pdf), arxiv Feb 2022.
+* [OFA: Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework](https://arxiv.org/pdf/2202.03052.pdf), arxiv Feb 2022.
 
