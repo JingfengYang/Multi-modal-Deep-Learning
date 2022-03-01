@@ -124,7 +124,13 @@ There are many advances of using unified models (e.g. Transformer) to create rep
 
 * [Dense Passage Retrieval for Open-Domain Question Answering](https://aclanthology.org/2020.emnlp-main.550.pdf), EMNLP 2020.
 
-* [Learning to Retrieve Passages without Supervision](http://www.cs.tau.ac.il/~oriram/spider.pdf), Dec 2021.
+* [RAG: Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401), NeuralPS 2020.
+
+* [End-to-End Training of Neural Retrievers for Open-Domain Question Answering](https://arxiv.org/pdf/2101.00408.pdf), ACL 2021.
+
+* [Condenser: a Pre-training Architecture for Dense Retrieval](https://arxiv.org/pdf/2104.08253.pdf), EMNLP 2021.
+
+* [Spider: Learning to Retrieve Passages without Supervision](http://www.cs.tau.ac.il/~oriram/spider.pdf), arxiv Dec 2021.
 
 ## Modality Fusion
 
