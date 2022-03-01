@@ -7,7 +7,7 @@ Recent Multi-modal Deep Learning Advances (list of papers and highlights).
 
 ### Prelude
 
-There are many advances of using unified models (e.g. Transformer) to create representations for multiple modalities. Some of them even enable fusion of multiple modalities to make different modalities help each other. Here, multiple modalities not only include natural language, vision and speech, but also include formal language (e.g. code) and (semi-)structured knowledge (e.g. table, KG etc.). This is a list of recent important papers in this field. Welcome to contribute.
+There are many advances of using unified models (e.g. Transformer) to create representations for multiple modalities. Some of them even enable fusion of multiple modalities to make different modalities help each other. Here, multiple modalities not only include natural language, vision and speech, but also include formal language (e.g. code),(semi-)structured knowledge (e.g. table, KG etc.) and biological/chemical compounds (e.g. protein, molecular, etc.). This is a list of recent important papers in this field. Welcome to contribute.
 
 
 - [Introduction](#introduction)
