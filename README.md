@@ -76,7 +76,7 @@ There are many advances of using unified models (e.g. Transformer) to create rep
 
 * [data2vec: A General Framework for Self-supervised Learning in Speech, Vision and Language](https://arxiv.org/pdf/2202.03555.pdf), arxiv Feb 2022.
 
-### Unsupervised Speech Representation Learning
+### Unsupervised Automatic Speech Recognition
 
 * [wav2vec-U: Unsupervised Speech Recognition](https://arxiv.org/pdf/2105.11084.pdf), arxiv May 2021.
 
