@@ -25,7 +25,7 @@ There are many advances of using unified models (e.g. Transformer) to create rep
   - [Table](#table)
   - [Knowledge Graph](#knowledge-graph)
   - [Retrieval Paragraphs as Knowledge](#retrieval-paragraphs-as-knowledge)
-- [Modality Fusion](#modality-infusion)
+- [Modality Fusion](#modality-fusion)
   - [Vision and Natural Language](#vision-and-natural-language)
 
 
@@ -76,7 +76,7 @@ There are many advances of using unified models (e.g. Transformer) to create rep
 
 * [data2vec: A General Framework for Self-supervised Learning in Speech, Vision and Language](https://arxiv.org/pdf/2202.03555.pdf), arxiv Feb 2022.
 
-### Unsupervised Automatic Speech Recognition (ASR)
+### Unsupervised Speech Representation Learning
 
 * [wav2vec-U: Unsupervised Speech Recognition](https://arxiv.org/pdf/2105.11084.pdf), arxiv May 2021.
 
