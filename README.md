@@ -111,7 +111,7 @@ There are many advances of using unified models (e.g. Transformer) to create rep
 
 * [TAPEX: Table Pre-training via Learning a Neural SQL Executor](https://arxiv.org/pdf/2107.07653.pdf), ICLR 2022.
 
-* [TableFormer: Robust Transformer Modeling for Table-Text Encoding](https://openreview.net/pdf?id=EHzvRqy6kD), ACL 2022.
+* [TableFormer: Robust Transformer Modeling for Table-Text Encoding](https://arxiv.org/pdf/2203.00274.pdf), ACL 2022.
 
 ### Knowledge Graph
 
